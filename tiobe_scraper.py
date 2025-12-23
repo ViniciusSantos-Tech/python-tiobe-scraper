@@ -1,5 +1,5 @@
-#Feito por Vincius Santos-Tech
-# Web Scraper para TIOBE Index - Rankings de Linguagens de Programação
+#Made by Vincius Santos-Tech
+# Web Scraper for TIOBE Index - Programming Language Rankings
 
 import requests
 from bs4 import BeautifulSoup
